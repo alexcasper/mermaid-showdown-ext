@@ -1,5 +1,5 @@
 {
-  "name": "showdown-extension-boilerplate",
+  "name": "showdown-mermaid",
   "repository": "showdownjs/showdown-extension-boilerplate",
   "description": "A boilerplate that can be used to jumpstart your showdown extension development",
   "version": "0.0.1",
@@ -13,7 +13,7 @@
     "showdownjs/showdown": "1.*.*"
   },
   "scripts": [
-    "./dist/showdown-extension-boilerplate.js"
+    "./dist/showdown-mermaid.js"
   ],
   "license": "MIT"
 }

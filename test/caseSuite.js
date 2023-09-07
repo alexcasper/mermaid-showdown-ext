@@ -4,8 +4,6 @@
  * In showdown, we use this particular setup
  */
 (function () {
-  'use strict';
-
   require('source-map-support').install();
   require('chai').should();
 
